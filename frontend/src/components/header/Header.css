@@ -1,0 +1,10 @@
+.header {
+  background-color: blueviolet;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  /* align-self: flex-start; */
+  /* justify-self: center; */
+  /* width: 100%; */
+}
