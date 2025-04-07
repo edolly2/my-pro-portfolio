@@ -1,0 +1,16 @@
+/*styled.div`*/
+/* .nav-wrapper { 
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+ } */
+
+.site-brand-wrapper {
+  display: flex;
+}
+
+.site-brand-img {
+  width: calc(4rem + 1.5vw);
+  height: auto;
+}

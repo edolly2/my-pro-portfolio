@@ -1,7 +1,7 @@
-import "./Content.css";
+// import "./Content.css";
 
-const Content = ({ children }) => {
-  return <main className="main-content">{children}</main>;
-};
+// const Content = ({ children }) => {
+//   return <main className="main-content">{children}</main>;
+// };
 
-export default Content;
+// export default Content;

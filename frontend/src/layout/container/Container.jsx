@@ -1,13 +1,13 @@
-import Content from "../content/Content";
+// import Content from "../content/Content";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import "./Container.css";
 
 const Container = ({ children }) => {
   return (
-    <div className="app-container">
+    <div className="page-layout">
       <Header />
-      <Content>{children}</Content>
+      <main>{children}</main>
       <Footer />
     </div>
   );
